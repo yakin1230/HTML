@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MY PORTFOLIO</title>
+    </head>
+    <body>
+        <h1>MD YAKIN ANSARI</h1>
+        <p>i love play football ;)</p>
+        <img src = "C:\YAKIN photos\WhatsApp Image 2024-08-19 at 20.43.47_d45be3d9.jpg" height = "250" width = "200" alt = "yk">
+        <hr />
+        <h2>Education</h2>
+        <ul>
+            <li><b>10th (BSEB)</b> : 60%</li>
+            <li><b>12th (BSEB)</b> : 74%</li>
+            <li><b>bachelor in engineering (CS)</b> : 7.4</li>
+        </ul>
+        <hr />
+        <h2>Skills</h2>
+        <ul>
+            <li>C , C++ , JAVA</li>
+            <li>Python , SQL</li>
+        </ul>
+        <hr />
+        <h2>Hobies</h2>
+        <ul>
+            <li>football</li>
+            <li>Coding</li>
+            <li>trip</li>
+        </ul>
+        <hr />
+        <h2>Contact Me</h2>
+        <ul>
+            <li>Email : mdyakin@gmail.com</li>
+        </ul>
+        <p>Made with &hearts; by Yakin</p>
+        
+    </body>
+</html>
